@@ -1,6 +1,6 @@
 #
 
-## Zapoznanie się ze środowiskiem pracy
+## Laboratorium 1. Zapoznanie się ze środowiskiem pracy
 
 ### Typy danych
 
