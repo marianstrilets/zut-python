@@ -1,5 +1,7 @@
 # Programowanie w języku Python
 
+[1]: 
+
 1. __Obsługa IDE. Wprowadzenie.__
 1. __Programowanie proceduralne.__
 1. __Programowanie proceduralne.__
