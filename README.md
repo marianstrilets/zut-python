@@ -1,8 +1,8 @@
 # Programowanie w języku Python
 
-[1]: 
+[1]: https://github.com/marianstrilets/zut-python/tree/main/L01%20Obs%C5%82uga%20IDE.%20Wprowadzenie "Obsługa IDE. Wprowadzenie"
 
-1. __Obsługa IDE. Wprowadzenie.__
+1. __[Obsługa IDE. Wprowadzenie.][1]__
 1. __Programowanie proceduralne.__
 1. __Programowanie proceduralne.__
 1. __Kolekcje.__
