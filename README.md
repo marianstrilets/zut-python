@@ -1,2 +1,2 @@
-#Python
+Python
 Programowanie w języku Python
