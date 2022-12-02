@@ -1,2 +1,2 @@
-# zut-python
+#Python
 Programowanie w języku Python
