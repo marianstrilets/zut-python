@@ -1,2 +1,1 @@
-#Python
-#Programowanie w języku Python
+Programowanie w języku Python
