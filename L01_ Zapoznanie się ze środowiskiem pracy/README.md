@@ -1,2 +1,2 @@
-Programowanie w języku Python
-Zapoznanie się ze środowiskiem pracy
+##Programowanie w języku Python
+####Zapoznanie się ze środowiskiem pracy
