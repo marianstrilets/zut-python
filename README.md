@@ -4,9 +4,11 @@
 
 [2]: https://github.com/marianstrilets/zut-python/tree/main/L02%20Programowanie%20proceduralne "Programowanie proceduralne"
 
+[3]: https://github.com/marianstrilets/zut-python/tree/main/L03%20Programowanie%20proceduralne "Programowanie proceduralne"
+
 1. __[Obsługa IDE. Wprowadzenie.][1]__
 2. __[Programowanie proceduralne.][2]__
-3. __Programowanie proceduralne.__
+3. __[Programowanie proceduralne.][3]__
 4. __Kolekcje.__
 5. __Kolekcje.__
 6. __Kolekcje.__
