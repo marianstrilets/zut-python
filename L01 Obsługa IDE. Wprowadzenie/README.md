@@ -7,7 +7,6 @@
 W Pythonie dostępne są następujące wbudowane typy danych:
 
 >
->
 > - liczbowe: **int, float, complex**;
 >
 > - tekstowe: **str**;
@@ -21,7 +20,6 @@ W Pythonie dostępne są następujące wbudowane typy danych:
 > - zbiory: **set, frozenset**;
 >
 > - binarne: **bytes , bytearray**.
->
 >
 
 Wyróżnić możemy także klasę **slice ( start, stop, step)**, wykorzystywaną przy indeksowaniu.
