@@ -20,5 +20,5 @@ def silnia_iter(n):
 
 result1 = silnia_rec(n)
 result2 = silnia_iter(n)
-print("Suma: ", result1)
-print("Suma: ", result2)
+print("Suma : ", result1)
+print("Suma : ", result2)
