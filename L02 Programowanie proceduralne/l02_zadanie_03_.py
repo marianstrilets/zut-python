@@ -7,6 +7,9 @@ z = int(input("Wprowadz Z: "))
 
 opcja = int(input("Wprowadz opcje: "))
 
+
+#
+
 if opcja == 1:
     print(x + y + z)
 elif opcja == 2:
