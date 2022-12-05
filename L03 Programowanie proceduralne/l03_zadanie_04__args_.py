@@ -7,5 +7,8 @@ def suma(*args):
         sum +=i
     return sum
 
+
+
+
 r = suma(2,4,5,3)
 print(r)
